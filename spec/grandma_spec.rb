@@ -1,4 +1,4 @@
-def speak_to_gdrandma(phrase)
+ak_to_gdrandma(phrase)
   if phrase == "I LOVE YOU GRANDMA!"
     "I LOVE YOU TOO PUMPKIN!"
   elsif == phrase.upcase
@@ -6,4 +6,4 @@ def speak_to_gdrandma(phrase)
   else
     "HUH? SPEAK UP, SONNY!"
   end
-end
+enddef spe
