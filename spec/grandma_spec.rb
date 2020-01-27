@@ -6,4 +6,4 @@ ak_to_gdrandma(phrase)
   else
     "HUH? SPEAK UP, SONNY!"
   end
-enddef spe
+end
